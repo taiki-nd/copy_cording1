@@ -22,7 +22,7 @@ li{
 }
 
 .wrapper{
-    max-width: 1200px;
+    width: 100%;
     padding: 0 16px;
 }
 
@@ -50,4 +50,55 @@ header{
 
 .lists li{
     padding: 10px 60px 10px 0px;
+}
+
+.pickup{
+    width: 90%;
+    display: block;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 150px;
+    margin: 60px 5% 0;
+}
+
+.pickup article{
+    width: 32%;
+}
+
+.container{
+    width: 90%;
+    display: block;
+    display: flex;
+    justify-content: space-between;
+    margin: 60px 5% 0;
+}
+
+.main{
+    width: 67%;
+}
+
+.date_info{
+    display: flex;
+}
+.main li{
+    margin-right: 20px;
+}
+
+.main article{
+    margin-bottom: 80px;
+}
+
+
+.side{
+    width: 30%;
+}
+
+.profile img{
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.profile{
+    margin-bottom: 30px;
 }
