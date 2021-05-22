@@ -96,9 +96,23 @@ header{
 .profile img{
     width: 200px;
     display: block;
+    border-radius: 30px;
     margin: 0 auto;
 }
 
 .profile{
-    margin-bottom: 30px;
+    margin-bottom: 60px;
+}
+
+.side_title{
+    text-align: center;
+}
+
+.ranking article{
+    margin-bottom:60px ;
+}
+
+.archive li{
+    border-bottom: 1px solid #333;
+    padding: 20px;
 }
