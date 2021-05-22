@@ -1,0 +1,53 @@
+html{
+    font-size: 100%;
+}
+
+body{
+    color: #333;
+    font-size: 1rem;
+    font-family: 'Noto Sans', Noto sans JP, sans-serif;
+}
+
+a{
+    color: #333;
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+}
+
+li{
+    list-style: none;
+}
+
+.wrapper{
+    max-width: 1200px;
+    padding: 0 16px;
+}
+
+.read_more{
+    text-align: center;
+}
+
+
+header{
+    width: 100%;
+    background-color: #fff;
+    position: fixed;
+}
+
+.lists{
+    background-color: #333;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.lists a{
+    color: #fff;
+}
+
+.lists li{
+    padding: 10px 60px 10px 0px;
+}
