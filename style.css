@@ -116,3 +116,27 @@ header{
     border-bottom: 1px solid #333;
     padding: 20px;
 }
+
+.content{
+    width: 90%;
+    display: flex;
+    background-color: #f7f7f7;
+    padding: 50px 5%;
+}
+
+.item{
+    width: 30%;
+    margin: 15px;
+    border: 1px solid #333;
+    padding: 10px;
+}
+
+.about_lists li{
+    list-style:disc;
+    padding: 10px;
+}
+
+.menu_list li{
+    border-bottom: 1px solid #333;
+    padding: 10px;
+}
